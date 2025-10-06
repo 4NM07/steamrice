@@ -67,7 +67,7 @@ fi
 
 else 
 	echo "Formatting chosen partitions....."
-	if [[ "$boot_mode" == "UEFI" ]; then
+	if [[ "$boot_mode" == "UEFI" ]]; then
 	mkfs.fat -F32 "$disk3"
 fi
  mkfs.ext4 "$disk1"
