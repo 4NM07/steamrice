@@ -104,6 +104,6 @@ arch-chroot /mnt /bin/bash -e <<EOF
 mkinitcpio -P
 echo "PLS set your root password this will be required to login"
 passwd 
-<<EOF
+EOF
 ------------------------------------------------------------------
 
