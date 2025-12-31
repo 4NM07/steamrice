@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "CaelestiaFox",
+    "version": "1.2",
+    "description": "A Firefox theme with dynamic colours from my caelestia dotfiles.",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "caelestiafox@caelestia.org"
+        }
+    },
+    "background": {
+        "scripts": ["dist/extension.js"]
+    },
+    "permissions": ["nativeMessaging", "theme"]
+}

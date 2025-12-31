@@ -1,0 +1,6 @@
+FOR INSTALLATION SCRIPT
+mkdir -p ~/.config/caelestia/shell.json
+pacman -S fish
+Add a login manager lacks one
+run install.fish
+

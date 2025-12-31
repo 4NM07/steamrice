@@ -1,5 +1,0 @@
-quickshell
-Hyprland
-Foot
-rofi
-

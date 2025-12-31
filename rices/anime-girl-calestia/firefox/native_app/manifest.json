@@ -1,0 +1,7 @@
+{
+    "name": "caelestiafox",
+    "description": "Native app for CaelestiaFox extension.",
+    "path": "$SRC/native_app/app.fish",
+    "type": "stdio",
+    "allowed_extensions": ["caelestiafox@caelestia.org"]
+}

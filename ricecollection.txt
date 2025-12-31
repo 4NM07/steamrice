@@ -1,0 +1,2 @@
+'https://github.com/caelestia-dots/shell?tab=readme-ov-file#manual-installation'
+https://www.reddit.com/r/unixporn/comments/1l5ll27/hyprland_i_3_quickshell/

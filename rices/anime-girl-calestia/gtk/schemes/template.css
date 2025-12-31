@@ -1,0 +1,40 @@
+@define-color window_bg_color $base;                /* The main background color used on GtkWindow */
+@define-color window_fg_color $text;                /* The main foreground text color */
+@define-color view_bg_color $base;                  /* A secondary background color used in icon views, text fields, etc */
+@define-color view_fg_color $text;                  /* Secondary foreground text color */
+@define-color accent_bg_color $primary;             /* Color to indicate that a widget is important, interactive, or currently active */
+@define-color accent_fg_color $text;                /* Color for text over widgets using accent_bg_color */
+@define-color accent_color $primary;                /* Mostly used for text labels. Can be the same as accent_bg_color */
+@define-color headerbar_bg_color $base;             /* The headerbar background */
+@define-color headerbar_fg_color $text;             /* The headerbar foreground text color */
+@define-color headerbar_backdrop_color $base;       /* The headerbar backdrop state background */
+@define-color headerbar_border_color $surface0;     /* Currently not used in adw-gtk3 */
+@define-color headerbar_shade_color $surface0;      /* The bottom border of the headerbar */
+@define-color card_bg_color $base;                  /* The background color of lists */
+@define-color card_fg_color $text;                  /* The text color on libhandy lists */
+@define-color card_shade_color $surface0;           /* List borders */
+@define-color popover_bg_color $surface0;           /* The background color of popovers and menus */
+@define-color popover_fg_color $text;               /* The text color on popovers */
+@define-color dialog_bg_color $base;                /* The background color of message dialogs */
+@define-color dialog_fg_color $text;                /* The foreground color of message dialogs */
+@define-color sidebar_bg_color $base;               /* Sidebar background color */
+@define-color sidebar_fg_color $text;               /* Sidebar foreground color */
+@define-color sidebar_backdrop_color $base;         /* Sidebar backdrop background color */
+@define-color sidebar_shade_color $surface0;        /* Sidebar shade color */
+
+@define-color warning_bg_color $surface1;           /* Background for widgets and elements that show a warning */
+@define-color warning_fg_color $yellow;             /* Foreground for widgets and elements that show a warning */
+@define-color warning_color $surface1;              /* Warning text label */
+@define-color error_bg_color $surface1;             /* Background for widgets and elements that show an error */
+@define-color error_fg_color $error;                /* Foreground for widgets and elements that show an error */
+@define-color error_color $surface1;                /* Error text label */
+@define-color success_bg_color $surface1;           /* Background for widgets and elements that show a successful action */
+@define-color success_fg_color $success;            /* Foreground for widgets and elements that show a successful action */
+@define-color success_color $surface1;              /* Success text label */
+@define-color destructive_bg_color $error;          /* The destructive color indicates a dangerous action, such as deleting a file */
+@define-color destructive_fg_color $text;           /* Destructive foreground color */
+@define-color destructive_color $error;             /* Destructive text label */
+
+/* Custom colors (GTK3 only) */
+@define-color panel_bg_color $base;                 /* Background for XFCE4 panel */
+@define-color panel_fg_color $text;                 /* Foreground for XFCE4 panel */

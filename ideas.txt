@@ -1,0 +1,20 @@
+1) Common Installs regardless of rice
+1. cava
+2. hyprpicker
+3. wl-clipboard
+4. cliphist
+5. kitty/alacritty/foot/fish
+6. fastfetch
+7. htop/btop
+8. cmatrix
+
+2) TERMINAL ART 
+1. cowsay
+2. figsay
+3. sl
+5. fortune cookie
+
+3) Think of backing up their original configs if there were any.
+
+4) A package reader so it reads how many packages u already have wrt to the rice and then displays list of additional packages needed along with all the package descriptions ofc
+
